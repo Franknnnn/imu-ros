@@ -1,0 +1,8 @@
+prefix=/home/frank/robo/robo_test_1/devel
+
+Name: package1
+Description: Description of package1
+Version: 0.0.0
+Cflags: -I/home/frank/robo/robo_test_1/devel/include
+Libs: -L/home/frank/robo/robo_test_1/devel/lib 
+Requires: message_runtime
